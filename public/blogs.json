@@ -1,0 +1,53 @@
+[
+    {
+      "id": 1,
+      "title": "Mastering JavaScript",
+      "cover": "https://i.ibb.co/fdbXpV8/4830280.png",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/dBj7M9C/10283056.png",
+      "reading_time": 12,
+      "hashtags": ["#JavaScript", "#Programming", "#WebDevelopment"],
+      "posted_date": "2024-10-01"
+    },
+    {
+      "id": 2,
+      "title": "Understanding CSS Flexbox",
+      "cover": "https://i.ibb.co/5RB4tK0/4864017.png",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/bzWd2z6/horizontal-portrait-smiling-happy-young-pleasant-looking-female-wears-denim-shirt-stylish-glasses-wi.png",
+      "reading_time": 8,
+      "hashtags": ["#CSS", "#Flexbox", "#WebDesign"],
+      "posted_date": "2024-10-02"
+    },
+    {
+      "id": 3,
+      "title": "React Hooks Explained",
+      "cover": "https://i.ibb.co/zGWFPj6/8720026.png",
+      "author": "Emily Johnson",
+      "author_img": "https://i.ibb.co/RDPMQXR/portrait-man-laughing.png",
+      "reading_time": 15,
+      "hashtags": ["#React", "#Hooks", "#JavaScript"],
+      "posted_date": "2024-10-03"
+    },
+    {
+      "id": 4,
+      "title": "The Basics of Node.js",
+      "cover": "https://i.ibb.co/4Js8SS7/x2pg-8m9b-220704.png",
+      "author": "Michael Lee",
+      "author_img": "https://i.ibb.co/L109SdC/young-bearded-man-with-striped-shirt.png",
+      "reading_time": 10,
+      "hashtags": ["#Nodejs", "#Backend", "#JavaScript"],
+      "posted_date": "2024-10-04"
+    },
+    {
+      "id": 5,
+      "title": "A Guide to Responsive Web Design",
+      "cover": "https://i.ibb.co/HY4GDjP/5326560.png",
+      "author": "Sophia Brown",
+      "author_img": "https://i.ibb.co/FV34QHC/indoor-studio-shot-attractive-beautiful-pretty-young-woman-wearing-eyeglasses-yellow-sweatshirt-havi.png",
+      "reading_time": 9,
+      "hashtags": ["#WebDesign", "#Responsive", "#CSS"],
+      "posted_date": "2024-10-05"
+    }
+  ]
+  

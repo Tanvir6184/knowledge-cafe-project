@@ -1,10 +1,14 @@
 import './App.css'
+import Blogs from './components/blog/Blogs'
+import Header from './components/header/Header'
+
 
 function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
+      <Header></Header>
+      <Blogs></Blogs>
       
     </>
   )
